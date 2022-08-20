@@ -1,2 +1,1 @@
-# Simple bootstrap-website Check 
-Exp.- https://jabinniloy79.github.io/bootstrap-website/
+# bootstrap-website- https://jabinniloy79.github.io/bootstrap-website/
